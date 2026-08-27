@@ -15,13 +15,13 @@ while True:
 
         answer = input(f"Are you {age} years old? [Y/N]")
 
-        if answer == "Y" or answer == "y":
+        if answer == "Y" or answer == "y" or answer == "yes" or answer =="Yes":
             guessed_ages.append(age)
             print("Easy! I'm a genius!")
             print(f"{name} is {age} years old.")
             break
 
-        elif answer == "N" or answer == "n":
+        elif answer == "N" or answer == "n" or answer == "No" or answer == "no":
             guessed_ages.append(age)
             print("Rats.")
             break
