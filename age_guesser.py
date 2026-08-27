@@ -17,7 +17,7 @@ while True:
 
         if answer == "Y" or answer == "y":
             guessed_ages.append(age)
-            print("Easy!")
+            print("Easy! I'm a genius!")
             print(f"{name} is {age} years old.")
             break
 
