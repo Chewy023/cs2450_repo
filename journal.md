@@ -31,3 +31,9 @@ Date: 09.30.2026 - Subject: Project Pitch
     This week our team worked on and presented our project pitch for our YouFace casino project. We had to explain our main idea, the features we want to include in the first version, and some features that we could add later if we had more time.
 
     We also talked about the architecture of our project, including Flask, the web interface, and how the different parts of the program will work together. Presenting the project helped me understand that software engineering is not only about writing code, but also being able to explain the idea and show why the project would be useful to other people.
+
+Date: 10.08.2026 - Subject: Agentic Programming
+
+    This week I learned how an AI agent can be used to help make changes to an existing software project. For our YouFace project, the problem was that a user could create an account with an empty username or password. I had the AI inspect the existing code first and come up with a plan before making changes.
+
+    This week I also worked on the Blackjack hit or stand issue and helped organize the project files in our repository. Working on these tasks gave me more practice using branches, making changes to the project, and keeping the repository organized. It also helped me understand how AI can assist with development while I still review and test the changes myself.
